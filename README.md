@@ -50,7 +50,12 @@
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
  </a>
+ <a href="https://mui.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="mui logo"  />
+ </a>
+ 
 </p>
+
 
 <p>
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityakitukale499&show_icons=true&locale=en&layout=compact" alt="Aditya Kitukale" />
